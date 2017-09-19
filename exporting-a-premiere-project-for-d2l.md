@@ -14,7 +14,7 @@ You'll download the export settings template file \(EPR\) to your project folder
 
 ## Using the template file to export your project
 
-You'll import the template file into your Export Settings box. The template file's settings will populate the Export Settings box. Then you'll export your MP4.
+You'll import the template file into your project's Export Settings box. The template file's settings will populate the Export Settings box. Then you'll export your MP4.
 
 1. In Premiere, make sure the Timeline panel is selected.
 2. Go to **File** on the menu bar. Select **Export** and choose **Media**.
