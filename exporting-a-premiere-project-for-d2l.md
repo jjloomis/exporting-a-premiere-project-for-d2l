@@ -1,6 +1,8 @@
 # Exporting a Premiere Project for D2L
 
-Unlike YouTube, which compresses a video when you upload it, D2L "points" to your video when you upload it. So you need to do the video compression yourself \(otherwise the video won’t play well over an internet connection.\)
+Unlike YouTube, which compresses a video when you upload it, D2L simply "points" to a video after its been uploaded. So you need to do the video compression yourself \(otherwise the video won’t play well over wifi internet connections.\)
+
+Using a template file to apply these compression settings saves time and removes the possibility of error.
 
 ## Downloading the export settings template file
 
@@ -18,9 +20,9 @@ You'll import the template file into your Export Settings box. The template file
 2. Go to **File** on the menu bar. Select **Export** and choose **Media**.
 3. In the Export Settings box, go to the Preset area \(upper-right.\) Click the **Import Preset** button \(folder with arrow pointing to the right.\) 
 4. Navigate to and select export-settings-for-d2l-videos.epr file \(in your project folder.\) Click **Open**.
-5. In the Choose Name box, leave the default name in the Please name this preset field. Click **OK**. The preset will populate the Export Settings area. 
-6. In the Output Name area \(top-right\) click the current name of your MP4 file \(_the-current-name-your-sequence.mp4_.\) It looks like a blue hyperlink. 
-7. In the Save As box, give the MP4 a new name and location. When finished, click **Save**. 
+5. In the Choose Name box, leave the default name in the Please name this preset field. Click **OK**. The preset will populate the Export Settings box. 
+6. In the Output Name area \(top-right\) click the current name of your MP4 file \(_the-current-name-of-your-sequence.mp4_.\) It looks like a blue hyperlink. 
+7. In the Save As box, navigate to and select your project. Then give your project a new name. When finished, click **Save**. 
 8. In the Export Settings box, click **Export** \(lower-right.\) Your MP4 will export to your project folder. 
 
 
