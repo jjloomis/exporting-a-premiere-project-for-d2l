@@ -2,7 +2,7 @@
 
 Unlike YouTube, which compresses a video when you upload it, D2L simply "points" to a video after its been uploaded. So you need to do the video compression yourself \(otherwise the video won’t play well over wifi internet connections.\)
 
-Using a template file to apply these compression settings saves time and removes the possibility of error.
+Using a template file to apply these compression settings saves time and removes the possibility of human error.
 
 ## Downloading the export settings template file
 
