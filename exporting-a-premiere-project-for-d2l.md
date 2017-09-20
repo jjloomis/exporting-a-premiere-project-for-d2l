@@ -1,8 +1,8 @@
 # Exporting a Premiere Project for D2L
 
-Unlike YouTube, which compresses a video when you upload it, D2L simply "points" to a video after it has been uploaded. So you need to do the video compression yourself \(otherwise the video won’t play well over wifi internet connections.\)
+Unlike YouTube, which compresses a video upon upload, D2L simply "points" to a video after its been uploaded. So you need to do the video compression yourself \(otherwise the video won’t play well over wifi internet connections.\)
 
-Using a template file to apply these compression settings saves time and reduces the possibility of human error \(there are a lot of quirky tweaks that need to be done to the compression settings when exporting for D2L.\)
+Using a template file to apply these compression settings saves time and reduces the possibility of human error.
 
 ## Downloading the export settings template file
 
