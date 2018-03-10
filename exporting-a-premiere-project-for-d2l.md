@@ -27,7 +27,3 @@ You'll import the template file into your project's Export Settings box. The tem
 
 
 
-
-
-Test
-
